@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome to Golden Phi
+tagline: A Software Engineer's Blog
 ---
 {% include JB/setup %}
-
-# Welcome to Golden Phi !
-
----
 
 This blog will serve as a journal for my studies (Software Engineering).  
 Here I'll post new things I learn, updates for projects I'll be developing, tools and tricks...
@@ -21,3 +17,5 @@ Here I'll post new things I learn, updates for projects I'll be developing, tool
 - [Personal Blog](http://neko250.github.io)
 - [Github](https://github.com/Neko250)
 - [Twitter](https://twitter.com/Neko250)
+
+---
