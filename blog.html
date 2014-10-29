@@ -8,6 +8,6 @@ group: navigation
 
 <ul class="posts">
     {% for post in site.posts %}
-        <li><h4><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><h4></li>
+        <li><div class="jumbotron"><h4><span>{{ post.date | date_to_string }}</span> &raquo; <strong><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></strong><h4></div></li>
     {% endfor %}
 </ul>
