@@ -12,7 +12,7 @@ tagline: Supporting tagline
 This blog will serve as a journal for my studies (Software Engineering).  
 Here I'll post new things I learn, updates for projects I'll be developing, tools and tricks...
 
-->![](http://s.hswstatic.com/gif/code-breakers-1.jpg)<-
+![](http://s.hswstatic.com/gif/code-breakers-1.jpg)
 
 ---
 
