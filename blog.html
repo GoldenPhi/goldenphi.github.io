@@ -6,8 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<ul class="posts">
+<ul class="list-group">
     {% for post in site.posts %}
-        <li><h4><span>{{ post.date | date_to_string }}</span> &raquo; <div class="jumbotron"><strong><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></strong></div></h4></li>
+        <li class="list-group-item"><span>{{ post.date | date_to_string }}</span> &raquo; <strong><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></strong></li>
     {% endfor %}
 </ul>
