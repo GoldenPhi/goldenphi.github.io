@@ -12,10 +12,10 @@ tagline: A Software Engineer's Blog
 ---
 
 <center>
-<div class="well well-sm">
+<div class="well well-sm" style="max-width:50%;">
 This blog will serve as a journal for my studies (Software Engineering).<br>
 Here I'll post new things I learn, updates for projects I'll be developing, tools and tricks...
-</div><br>
+</div>
 <img src="http://s.hswstatic.com/gif/code-breakers-1.jpg"></img>
 </center>
 
