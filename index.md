@@ -16,7 +16,7 @@ tagline: A Software Engineer's Blog
 This blog will serve as a journal for my studies (Software Engineering).<br>
 Here I'll post new things I learn, updates for projects I'll be developing, tools and tricks...
 </div>
-<img src="http://s.hswstatic.com/gif/code-breakers-1.jpg"></img>
+<img src="http://s.hswstatic.com/gif/code-breakers-1.jpg" style="max-width:100%;"></img>
 </center>
 
 ---
