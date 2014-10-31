@@ -8,7 +8,7 @@ Here's a little C++ code I wrote that calculates the Spanish DNI Control Digits,
 
 #### This code is for testing purposes only!
 
-``` cpp Spanish DNI Ctrl Digit Calc https://gist.github.com/Neko250/6497151 View Gist
+``` cpp
 #include <iostream>
 #include <stdlib.h>
 #include <string.h>
