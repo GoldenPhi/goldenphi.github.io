@@ -6,7 +6,9 @@ tagline: A Software Engineer's Blog
 {% include JB/setup %}
 
 <center>
-<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greek_letter_uppercase_Phi.svg/2000px-Greek_letter_uppercase_Phi.svg.png" width="200" class="welcome">
+<div class="wow lightSpeedIn" data-wow-delay="0.5s">
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greek_letter_uppercase_Phi.svg/2000px-Greek_letter_uppercase_Phi.svg.png" width="200">
+</div>
 </center>
 
 ---
