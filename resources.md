@@ -6,9 +6,30 @@ group: navigation
 ---
 {% include JB/setup %}
 
+### Links
+
+- [jQuery](http://jquery.com)
+- [Bootstrap](http://getbootstrap.com)
+- [FontAwesome](http://fortawesome.github.io/Font-Awesome)
+- [Animate.css](http://daneden.github.io/animate.css)
+- [WOW.js](http://mynameismatthieu.com/WOW/index.html)
+- [Moment.js](http://momentjs.com)
+- [Midnight.js](http://aerolab.github.io/midnight.js)
+- [D3.js](http://d3js.org)
+- [Require.js](http://requirejs.org)
+- [PureCSS](http://purecss.io)
+- [Chart.js](http://www.chartjs.org)
+- [Snap.svg](http://snapsvg.io)
+- [Leaflet](http://leafletjs.com)
+- [Vue.js](http://vuejs.org)
+- [Seedrandom](https://github.com/davidbau/seedrandom)
+- [Underscore.js](http://underscorejs.org)
+
+---
+
 To include any of these libraries, just copy-paste the HTML tags inside your `<head></head>` tags
 
-{% highlight html linenos %}
+{% highlight html %}
 <!-- jQuery -->
 <script src="http://goldenphi.github.io/resources/jquery-1.11.1.min.js"></script>
 <script src="http://goldenphi.github.io/resources/jquery-2.1.1.min.js"></script>
@@ -75,26 +96,5 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <!-- Underscore.js -->
 <script src="http://goldenphi.github.io/resources/underscore-min.js"></script>
 {% endhighlight %}
-
----
-
-### Documentation
-
-- [jQuery](http://jquery.com)
-- [Bootstrap](http://getbootstrap.com)
-- [FontAwesome](http://fortawesome.github.io/Font-Awesome)
-- [Animate.css](http://daneden.github.io/animate.css)
-- [WOW.js](http://mynameismatthieu.com/WOW/index.html)
-- [Moment.js](http://momentjs.com)
-- [Midnight.js](http://aerolab.github.io/midnight.js)
-- [D3.js](http://d3js.org)
-- [Require.js](http://requirejs.org)
-- [PureCSS](http://purecss.io)
-- [Chart.js](http://www.chartjs.org)
-- [Snap.svg](http://snapsvg.io)
-- [Leaflet](http://leafletjs.com)
-- [Vue.js](http://vuejs.org)
-- [Seedrandom](https://github.com/davidbau/seedrandom)
-- [Underscore.js](http://underscorejs.org)
 
 ---
