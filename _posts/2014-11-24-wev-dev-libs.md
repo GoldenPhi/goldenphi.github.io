@@ -1,12 +1,13 @@
 ---
-layout: page
-title: Resources
-tagline: Collection of libraries for web development
-group: navigation
+layout: post
+category: libraries
+tags: [libraries, code, html, web]
 ---
-{% include JB/setup %}
 
-To include any of these libraries, just copy-paste the HTML tags inside your `<head></head>` tags
+I've hosted a set of libraries (html, css & js) in this site.  
+They're accessible using this tags inside your HTML `<head></head>` tags.
+
+For documentation on any of these libs, scroll past this code snippet.
 
 {% highlight html linenos %}
 <!-- jQuery -->
