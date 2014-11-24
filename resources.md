@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 tagline: Collection of libraries for web development
+group: navigation
 ---
 {% include JB/setup %}
 
