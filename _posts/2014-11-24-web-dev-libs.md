@@ -9,7 +9,7 @@ They're accessible using this tags inside your HTML `<head></head>` tags.
 
 For documentation on any of these libs, scroll past this code snippet.
 
-{% highlight html linenos %}
+{% highlight html %}
 <!-- jQuery -->
 <script src="http://goldenphi.github.io/resources/jquery-1.11.1.min.js"></script>
 <script src="http://goldenphi.github.io/resources/jquery-2.1.1.min.js"></script>
