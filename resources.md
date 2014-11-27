@@ -8,28 +8,29 @@ group: navigation
 
 ### Links
 
-- [jQuery](http://jquery.com)
-- [Bootstrap](http://getbootstrap.com)
-- [FontAwesome](http://fortawesome.github.io/Font-Awesome)
-- [Animate.css](http://daneden.github.io/animate.css)
-- [WOW.js](http://mynameismatthieu.com/WOW/index.html)
-- [highlight.js](https://highlightjs.org)
-- [Ladda](http://lab.hakim.se/ladda/)
-- [Fokus](http://lab.hakim.se/fokus/)
-- [Meny](http://lab.hakim.se/meny/)
-- [forkit.js](http://lab.hakim.se/forkit-js/)
-- [Stroll](http://lab.hakim.se/scroll-effects/)
-- [Moment.js](http://momentjs.com)
-- [Midnight.js](http://aerolab.github.io/midnight.js)
-- [D3.js](http://d3js.org)
-- [Require.js](http://requirejs.org)
-- [PureCSS](http://purecss.io)
-- [Chart.js](http://www.chartjs.org)
-- [Snap.svg](http://snapsvg.io)
-- [Leaflet](http://leafletjs.com)
-- [Vue.js](http://vuejs.org)
-- [Seedrandom](https://github.com/davidbau/seedrandom)
-- [Underscore.js](http://underscorejs.org)
+- [jQuery](http://jquery.com): Fast, small and feature-rich JavaScript library
+- [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS and JS framework for developing responsive, mobile first projects on the web
+- [FontAwesome](http://fortawesome.github.io/Font-Awesome): The iconic font and CSS toolkit
+- [Animate.css](http://daneden.github.io/animate.css): Just-add-water CSS animations
+- [WOW.js](http://mynameismatthieu.com/WOW/index.html): Reveal animations when you scroll. Easily customize animations settings (style, delay, length, offset, iterations...)
+- [highlight.js](https://highlightjs.org): Syntax highlighting for the web
+- [Ladda](http://lab.hakim.se/ladda/): Buttons with built-in loading indicators
+- [Fokus](http://lab.hakim.se/fokus/): Emphasize anything you select by covering the rest of the page with semi-transparent black
+- [Meny](http://lab.hakim.se/meny/): A three dimensional and space efficient menu
+- [forkit.js](http://lab.hakim.se/forkit-js/): An animated Github ribbon
+- [Stroll](http://lab.hakim.se/scroll-effects/): CSS3 list scroll effects
+- [Github Fork Ribbon](http://simonwhitaker.github.io/github-fork-ribbon-css/): CSS implementation of the famous Fork me on Github ribbon
+- [Moment.js](http://momentjs.com): Parse, validate, manipulate and display dates in JS
+- [Midnight.js](http://aerolab.github.io/midnight.js): Lets you switch fixed headers on the fly
+- [D3.js](http://d3js.org): JS library for manipulating documents based on data
+- [Require.js](http://requirejs.org): JS file and module loader
+- [PureCSS](http://purecss.io): A set of small, responsive CSS modules that you can use in every web project
+- [Chart.js](http://www.chartjs.org): Simple, clean and engaging charts for designers and developers
+- [Snap.svg](http://snapsvg.io): The JS SVG library for the modern web
+- [Leaflet](http://leafletjs.com): An open-source JS library for mobile-friendly interactive maps
+- [Vue.js](http://vuejs.org): Library for building interactive web interfaces
+- [Seedrandom](https://github.com/davidbau/seedrandom): Seeded random number generator for JS
+- [Underscore.js](http://underscorejs.org): JS library that provides a whole mess of useful functional programming helpers without extending any built-in objects
 
 ---
 
@@ -86,6 +87,9 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <!-- Stroll -->
 <link rel="stylesheet" href="http://goldenphi.github.io/resources/stroll/stroll.min.css">
 <script src="http://goldenphi.github.io/resources/stroll/stroll.min.js"></script>
+
+<!-- Github Fork Ribbon -->
+<link rel="stylesheet" href="http://goldenphi.github.io/resources/gh-fork-ribbon.css">
 
 <!-- moment.js -->
 <script src="http://goldenphi.github.io/resources/moment.js"></script>
